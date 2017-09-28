@@ -1,0 +1,20 @@
+.sorting tr:not(.home) {
+    cursor:pointer;
+}
+
+.ui-state-highlight {
+    border: 1px dashed #ccc;
+}
+
+.container {
+    padding-top: 40px!important;
+}
+
+#imgPreview {
+    margin: 20px;
+}
+
+#noimage {
+    width: 100px;
+    height: 100px;
+}
